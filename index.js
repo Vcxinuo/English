@@ -5,3 +5,4 @@ let div=document.getElementById("div1");
 let dd=0;
 let ee=9;
 let ff=10;
+let gg=11;
